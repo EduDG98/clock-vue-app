@@ -1,5 +1,7 @@
 # clock-vue-app
 
+Deployed  -->  https://edudg98.github.io/clock-vue-app/
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
