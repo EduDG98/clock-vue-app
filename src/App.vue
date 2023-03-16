@@ -5,13 +5,6 @@ export default {
   name: "App",
   components: {
     DigitalClock
-  },
-  data() {
-    return {
-      
-    }
-  },
-  methods: {
   }
 }
 </script>
@@ -23,5 +16,4 @@ export default {
 </template>
 
 <style>
-  
 </style>
