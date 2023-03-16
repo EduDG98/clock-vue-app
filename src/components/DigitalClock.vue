@@ -31,7 +31,7 @@
                 this.period = this.hours < 12 ? 'AM' : 'PM';
             },
             showWithZero(num) {
-                return num = num <= 9 ? `${num}`.padStart(2, 0) : num;
+                return num = num <= 9 ? num.toString().padStart(2, 0) : num;
             }
         }
     }
